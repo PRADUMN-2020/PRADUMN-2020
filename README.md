@@ -1,8 +1,4 @@
-
-
-https://user-images.githubusercontent.com/62955903/175095549-8788fd23-4ee1-4cbc-a6e8-ff0a977ca093.mp4
-
-(https://www.canva.com/design/DAFEU_OswyM/Uj0b9BNJYEZFoomrm3Ydfw/watch)
+[![MasterHead](https://github.com/PRADUMN-2020/Cover-Animation/blob/main/Hi%2C%20I%20am%20Pradumn.svg)]
 <h3 align="center">A passionate Problem solver and Frontend developer from India.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pradumn-2020&label=Profile%20views&color=0e75b6&style=flat" alt="pradumn-2020" /> </p>
@@ -35,5 +31,3 @@ You can Reach out to me at - pradumnprasad883@gmail.com
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pradumn-2020&show_icons=true&locale=en" alt="pradumn-2020" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pradumn-2020&" alt="pradumn-2020" /></p>
-
-
