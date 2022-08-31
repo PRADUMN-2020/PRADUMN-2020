@@ -6,7 +6,7 @@
 
 I am an undergraduate student pursuing a dual degree (BTech+ MTech) in Information Technology at IIIT Gwalior. I have a passion for technology. My interests lie in problem-solving and creating helpful web applications and websites. 
 
-I have strong Data Structures and Algorithms fundamentals. Currently, I am a Front-end web developer, and I am learning backend development to fulfill my dream of becoming a Full-Stack web developer. 
+I have strong Data Structures and Algorithms fundamentals. Currently, I am a Full-Stack web developer, working on my Projects and learning new technologies.
 
 When I am not coding, I love listening English songs.
 
