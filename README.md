@@ -1,4 +1,4 @@
-![MasterHead](https://github.com/PRADUMN-2020/Cover-Animation/blob/main/Hi%2C%20I%20am%20Pradumn%20(5).gif)
+![MasterHead](https://github.com/PRADUMN-2020/Cover-Animation/blob/main/Hi%2C%20I%20am%20Pradumn%20(6).gif)
 
 <h1 align="center">Hi 👋, I'm Pradumn Prasad.</h1>
 <h3 align="center">A passionate Problem solver and Full Stack developer from India.</h3>
